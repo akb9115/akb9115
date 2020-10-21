@@ -16,7 +16,7 @@
 ### <img src="https://img.icons8.com/nolan/64/wrench.png" width="25"/> Languages and Tools:
 
 <img align="left" alt="C++" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png" />
-[<img align="left" alt="Sight Machine" width="35px" src= "https://pbs.twimg.com/profile_images/1032033528324603904/ejV1uR7X_400x400.jpg" />](https://www.sightmachine.com)
+<img align="left" alt="Sight Machine" width="35px" src= "https://pbs.twimg.com/profile_images/1032033528324603904/ejV1uR7X_400x400.jpg" />
 <img align="left" alt="Python" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
 <img align="left" alt="HTML5" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img align="left" alt="CSS3" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
