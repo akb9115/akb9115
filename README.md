@@ -2,7 +2,7 @@
 
 ## I'm a Software Engineer!!
 
-- 🔭 I’m currently working on [Sight Machine Platform](https://sightmachine.com/).
+- 🔭 I’m currently working as Developer in TCS.
 - 🌱 Also, I’m currently learning python for data science and machine learning.
 - 👯 I’m looking to collaborate on various python projects.
 - ⚡ Fun fact: I love to draw and play games.
