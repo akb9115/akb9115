@@ -3,7 +3,7 @@
 ## I'm a Software Engineer!!
 
 - 🔭 I’m currently working as Developer in TCS.
-- :computer: My primary responsibility is to do data extraction and migration in Oracle EBS.
+- :computer: My primary responsibility is to data extraction and migration in Oracle EBS.
 - 🌱 I have expertise on Oracle SQL, Oracle EBS r12, PL/SQL, Python3.
 - :maple_leaf:: Basic knowledge of various other languages like HTML, CSS, Angular 8, Python Django Framework.
 - 👯 I’m looking to collaborate on various python projects.
