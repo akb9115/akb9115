@@ -3,7 +3,7 @@
 ## I'm a Software Engineer!!
 
 - 🔭 I’m currently working as Developer in TCS.
-- 🌱 Also, I’m currently learning python for data science and machine learning.
+- 🌱 I have expertise on Oracle SQL, Oracle EBS r12, PL/SQL, Python, Python django framework
 - 👯 I’m looking to collaborate on various python projects.
 - ⚡ Fun fact: I love to draw and play games.
 
