@@ -13,7 +13,7 @@
 
   <a href="https://github.com/akb9115"><img src="https://img.icons8.com/nolan/64/github.png" width='50px'/></a>
   <a href="mailto: amit.bharati1707@gmail.com"><img src="https://img.icons8.com/fluent/64/000000/gmail.png" width="50"/></a>
-  <a href="https://www.linkedin.com/in/amit-bharati-4aa936168"><img src="https://img.icons8.com/cute-clipart/64/000000/linkedin.png" width='50'/></a>
+  <a href="https://www.linkedin.com/in/amit-kumar-bharati-4aa936168/"><img src="https://img.icons8.com/cute-clipart/64/000000/linkedin.png" width='50'/></a>
   
 ### <img src="https://img.icons8.com/nolan/64/wrench.png" width="25"/> Languages and Tools:
 
